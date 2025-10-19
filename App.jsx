@@ -234,7 +234,7 @@ export default function App() {
             <div className="flex gap-6 justify-start md:justify-end">
               <a href="#" className="hover:text-zinc-900">Privacy</a>
               <a href="#" className="hover:text-zinc-900">Terms</a>
-              <a href="mailto:hello@everydayaiwins.com" className="hover:text-zinc-900">Contact</a>
+              <a href="mailto:support@everydayaiwins.com" className="hover:text-zinc-900">Contact</a>
             </div>
           </div>
         </div>
